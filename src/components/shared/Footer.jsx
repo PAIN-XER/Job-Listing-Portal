@@ -38,7 +38,7 @@ const Footer = () => {
               </svg>
             </a>
             <a
-              href="https://github.com/Pushkarmondal"
+              href="https://github.com/gopal0611/Job-Listing-Portal"
               className="hover:text-gray-400"
               aria-label="Github"
             >
